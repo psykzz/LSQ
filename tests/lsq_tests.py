@@ -1,6 +1,4 @@
-import os
 import unittest
-import tempfile
 
 # Import the application
 from app import app as lsq
